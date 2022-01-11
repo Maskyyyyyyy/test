@@ -1,2 +1,2 @@
 # test
-This is a repulsory test.
+This is a description.
